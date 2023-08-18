@@ -11,3 +11,5 @@ este curso tiene 126 modulos.
 es un curso para el manejo de git y sus caracteristicas y como de debe manejar la herramienta Github.
 
 este curso de udemy es muy bueno y las clases y los ejercicios son muy practicos para el aprendizaje.
+
+estos cambios en el readme son para subir con la consola y hacer los cambios....
