@@ -1,0 +1,8 @@
+#para ignorar un archivo en git y no subirlo al repositorio es necesario crear un archivo .gitignore
+#y dentro de el escribir el nombre del archivo que se quiere ignorar
+#para ignorar un directorio se escribe el nombre del directorio seguido de una barra diagonal
+#para ignorar todos los archivos de un tipo se escribe *.tipo
+#para ignorar todos los archivos de un tipo en un directorio se escribe directorio/*.tipo
+#para ingorar un archivo en un directorio se escribe directorio/archivo ej: carpeta1/archivo1.txt
+
+node_modules/

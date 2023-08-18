@@ -1,0 +1,14 @@
+Para la configuracion de Git lo principal es hacer el author y el gmail.com
+se hace con git author "Juan David Ramirez Grismaldo", git gmail "juan.grismaldo@correounivalle.edu.co"
+
+esto es para configurar la base de git.
+
+lo principal en git para entender
+para hacer un commit y subirlo a tu repositorio hay que tener en cuenta que se debe hacer en guardar los cambios 
+del proyecto antes de subirlo y cada cambio en el codigo se deba hacer un add .
+
+para reponer los directorios o cualquier cosa que borras epor accidente o que necesitas se hace con git checkout -- .
+siempre y cuando git tenga el seguimiento de los archivos que ya tengan un commit.
+
+para hacer un commit sin utilizar el add se utiliza git commit -am "Mi curso en Git" se debe hacer solo si ya tines agregado el 
+elemento agragrado al commit.
