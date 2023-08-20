@@ -13,3 +13,6 @@ es un curso para el manejo de git y sus caracteristicas y como de debe manejar l
 este curso de udemy es muy bueno y las clases y los ejercicios son muy practicos para el aprendizaje.
 
 estos cambios en el readme son para subir con la consola y hacer los cambios....
+
+nota importante siempre te tines que crear una rama diferente a la que es main o master para porder tener un control
+de versiones mas adecuado.
